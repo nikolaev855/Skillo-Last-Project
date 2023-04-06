@@ -1,0 +1,15 @@
+tests\HomePagePostTest.class
+pages\BasePage.class
+pages\PostModal.class
+tests\LogoutProfilePageTest.class
+pages\Header.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\NewPostPage.class
+tests\BaseTest.class
+tests\LoginTest.class
+pages\ProfilePage.class
+tests\NewPostTest.class
+tests\LogoutHomePageTest.class
+pages\RegistrationPage.class
+tests\RegistrationInvalidEmailTest.class
